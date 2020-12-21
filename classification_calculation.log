@@ -1,0 +1,4 @@
+750
+250
+Accuracy svm_model_ovr_rbf: 0.308
+Accuracy svm_model_ovo_linear: 0.312
